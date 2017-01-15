@@ -1,5 +1,8 @@
 ## Vitajte v Eltech Mánii
 
+- EltechMania appka: [tu](https://eltechmania.netlify.com) 
+- Wiki o projekte : [wiki](https://jakubferko.github.io/eltechmania) pre viac informácií.
+
 Tento súbor je možné editoať  [editorom na GitHube](https://github.com/jakubferko/eltechmania/edit/master/README.md) .
 
 (Našu GitHub Stránku automaticky spracováva [Jekyll](https://jekyllrb.com/).
